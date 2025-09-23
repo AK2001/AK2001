@@ -9,7 +9,7 @@ On my free time, I try to touch grass 😎
 🔭 **I’m currently working on**:
 - A mobile app which utilizes Deep Learning to perform multimodal similarity search
 - A beginner-friendly tutorial on Neural Networks
-- Developing two custom LLMs
+- Developing two custom neural nets (transformer-based)
 - [My blog ヽ༼ ◕_◕༽ﾉ](https://akelaiditis.bearblog.dev/)
 
 ### 🏗️ Portfolio in a glance...
