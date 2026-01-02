@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-I am a Machine Learning Engineer, with great focus towards Deep Learning.
+I am a Python developer, currently working as a Machine Learning Egnineer.
 
-On my free time, I try to touch grass 😎
+I started tinkering with Python back in 2021 and since then I have worked on many interesting projects, most of them relating to data.
+
+In my work, I mostly value efficiency and simplicity.
 
 ---
 
 ### 🔭 **I’m currently working on**:
 - A mobile app which utilizes Deep Learning to perform multimodal similarity search
-- A beginner-friendly tutorial on Neural Networks
+  - Stack: [Expo](https://github.com/expo/expo) + [Qdrant](https://github.com/qdrant/qdrant) + [FastAPI](https://github.com/fastapi/fastapi) + [Transformers](https://github.com/huggingface/transformers)
+  - Goal: Allow users to quickly retrieve/search images
 - [My blog ヽ༼ ◕_◕༽ﾉ](https://akelaiditis.bearblog.dev/)
 
 </br>
@@ -17,7 +20,7 @@ On my free time, I try to touch grass 😎
 
 - "Car make and model classification from Image" ([repository](https://github.com/AK2001/Car-Model-Classification-from-Image)):
   - My BSc thesis which I experimented with CNNs for the first time 🧪
-
+ 
 - A similarity search system build upon a SQL database containing millions of records (no repository available :/ )
   - **Key Challenge**: Find a reliable way to sync the SQL database to the vector database
   - **My solution**: Create an automation which checks recently modified records --> process them --> adds/deletes/updates
